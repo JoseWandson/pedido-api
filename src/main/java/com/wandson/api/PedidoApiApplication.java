@@ -1,4 +1,4 @@
-package com.wandson.pedido;
+package com.wandson.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
